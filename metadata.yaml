@@ -1,0 +1,34 @@
+_repo: La-Com-die-de-la-mort_10442
+_version: 0.0.1
+alternative_title: La Comedie de la mort
+creator:
+  author:
+    agent_name: Gautier, Théophile
+    aliases:
+    - Gautier, Pierre-Jules-Théophile
+    - Gautier, Theophile
+    - Gaultier, Theophile
+    birthdate: 1811
+    deathdate: 1872
+    gutenberg_agent_id: '5450'
+    url: http://www.gutenberg.org/2009/agents/5450
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Théophile_Gautier
+    - http://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier
+description: ''
+gutenberg_bookshelf: FR Poésie
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10442'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Death -- Poetry'
+- !lcc 'PQ'
+- !lcsh 'Death in literature'
+- GITenberg
+title: La Comédie de la mort
+url: http://www.gutenberg.org/ebooks/10442
